@@ -15,10 +15,6 @@ import Grid from '@material-ui/core/Grid';
 import Navbar from './components/Navbar';
 import HomePage from './components/HomePage';
 
-import {Typography, AppBar} from '@material-ui/core';
-
-import Particle from "react-particles-js";
-import particlesConfig from './assets/particlesConfig.json';
 import './App.css';
 
 import AdminLoginPage from './components/AdminLoginPage';
